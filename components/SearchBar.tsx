@@ -21,7 +21,7 @@ const SearchBar = ({placeholder, onPress}: Props) => {
                 className='flex-1 ml-2 text-white'
             />
         </View>
-    )
+    )               
 }
 
 export default SearchBar
