@@ -28,7 +28,6 @@ const _layout = () => {
         )
     }
 
-
     return (
         <Tabs
             screenOptions={{
